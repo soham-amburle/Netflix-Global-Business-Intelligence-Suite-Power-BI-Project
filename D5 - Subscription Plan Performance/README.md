@@ -1,4 +1,4 @@
-# Subscription Plan Performance Dashboard
+# Netflix Global Streaming Intelligence Suite - Subscription Plan Performance Dashboard
 
 **Organization:** Simulated Global Streaming Platform (Inspired by Netflix)  
 **Tool:** Power BI  
